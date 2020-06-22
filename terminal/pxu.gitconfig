@@ -1,0 +1,8 @@
+[user]
+	name = Peter Xu
+	email = xupeter@amazon.com
+
+[alias]
+	lg="log --graph"
+	dag = log --graph --format='format:%C(yellow)%h%C(reset) %C(blue)\"%an\" <%ae>%C(reset) %C(magenta)%cr%C(reset)%C(auto)%d%C(reset)%n%s' --date-order
+	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all

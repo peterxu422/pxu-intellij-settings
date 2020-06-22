@@ -1,0 +1,5 @@
+#!/bin/sh
+
+FILE="$1.itermcolors"
+URL="https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/$FILE"
+curl $URL > ./$FILE
