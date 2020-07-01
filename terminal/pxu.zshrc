@@ -148,3 +148,6 @@ export AAA_PROXY_HOST=xupeter-clouddesk.aka.corp.amazon.com
 
 # Bit
 source ~/BitScripts/envsetup.sh
+
+# heroku autocomplete setup
+HEROKU_AC_ZSH_SETUP_PATH=/Users/xupeter/Library/Caches/heroku/autocomplete/zsh_setup && test -f $HEROKU_AC_ZSH_SETUP_PATH && source $HEROKU_AC_ZSH_SETUP_PATH;
