@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="OrderLineItemDataTableTests_testInLineEditSetBudgetBelowCost" type="JSON" />
+      <mapping pattern="DSP-1417-BulkAudienceTargetingLineItemSummaryAudiences" type="Markdown" />
+      <mapping pattern="OrderLineItemDataTableTests_testInLineEditSetBudgetBelowCost.json" type="PLAIN_TEXT" />
+      <mapping pattern="050DrainRelayConnsConsumable" type="PLAIN_TEXT" />
+      <mapping pattern="turtle-config" type="PLAIN_TEXT" />
+      <mapping pattern="adw_ad_agg_hourly" type="PLAIN_TEXT" />
+      <mapping pattern=".manifest" type="PLAIN_TEXT" />
+      <mapping pattern="attributed-event" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
